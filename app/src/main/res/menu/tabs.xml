@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_filmes"
+        android:icon="@drawable/filme"
+        android:title="Filmes" />
+    <item
+        android:id="@+id/tab_pipoca"
+        android:icon="@drawable/pipocas"
+        android:title="Pipoca" />
+    <item
+        android:id="@+id/tab_ingressos"
+        android:icon="@drawable/ingresso"
+        android:title="Ingressos" />
+
+</menu>
